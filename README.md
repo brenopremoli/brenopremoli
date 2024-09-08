@@ -1,6 +1,6 @@
 ## Olá! Eu sou Breno Premoli 👋
 
-Atualmente estudo "Análise e Desenvolvimento de Sistemas" na Fatec de Presidente Prudente!
+Sou formado em "Análise e Desenvolvimento de Sistemas" na Fatec de Presidente Prudente!
 
 <div align="center">
   <a href="https://github.com/brenopremoli">
