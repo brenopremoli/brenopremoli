@@ -3,18 +3,17 @@
 Sou formado em "Análise e Desenvolvimento de Sistemas" na Fatec de Presidente Prudente!
 
 <div align="center">
-  <a href="https://github.com/brenopremoli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenopremoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopremoli&layout=compact&langs_count=7&theme=dracula"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Breno%20Premoli&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=00d4ff&animation=fadeIn" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=500&lines=Olá%2C+eu+sou+o+Breno!+👋;Front-End+%26+Full+Stack+Developer;TypeScript+%7C+React+%7C+Solid.js;Transformando+ideias+em+interfaces" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=brenopremoli&style=for-the-badge&color=00d4ff&label=VISITAS+AO+PERFIL" alt="Profile Views"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Breno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="Breno-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+
 
 ##
 
