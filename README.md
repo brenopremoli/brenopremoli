@@ -1,34 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=100&section=header" width="100%"/>
+# Breno Premoli
+
+**Front-end Developer · TypeScript Enthusiast · Building things for the web**
+
+I craft clean, performant interfaces with modern JavaScript and a focus on developer experience.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brenopremoli)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/brenopremoli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://brenopremoli.dev)
 
 </div>
-
-<div align="center">
-
-**hey, i'm breno** 👋
-
-</div>
-
-<div align="center">
-
-front-end developer focused on building clean, fast and thoughtful interfaces. <br/>
-i like code that makes sense — and design that doesn't get in the way.
-
-</div>
-
-<br/>
 
 ---
 
+### About
+
+- 🛠 Working with **TypeScript**, **React** and **Node.js** daily
+- ⚡ Exploring **Solid.js** and reactive primitives
+- 📐 Care deeply about clean code, good architecture and consistent UI
+- 🌱 Always learning something new
+
+---
+
+### Tech Stack
+
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,solidjs,nodejs,html,css,git&theme=light)](https://skillicons.dev)
+
+</div>
+
+---
+
+### GitHub Stats
+
 <div align="center">
 
-**stack**
+<a href="https://github.com/brenopremoli">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brenopremoli&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+</a>
 
-<br/>
+<a href="https://github.com/brenopremoli">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopremoli&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=300" alt="Top Languages" />
+</a>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,solidjs,nodejs,html,css,git&theme=dark&perline=8" />
+</div>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=brenopremoli&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -37,48 +61,6 @@ i like code that makes sense — and design that doesn't get in the way.
 
 <div align="center">
 
-**stats**
-
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenopremoli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff"/>
-&nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopremoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=brenopremoli&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-</div>
-
----
-
-<div align="center">
-
-**contact**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/brenopremoli)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:brenopremoli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/brenopremoli)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=brenopremoli&color=58a6ff&style=flat&label=profile+views)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=brenopremoli&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
