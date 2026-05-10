@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Breno Premoli 👋
+# Olá, eu sou o Breno 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Suporte+%26+Infraestrutura+de+TI+%F0%9F%96%A7%EF%B8%8F;Pós-graduando+em+Inteligência+Artificial+🤖;Automatizando+processos+e+construindo+soluções+🚀)](https://git.io/typing-svg)
 
@@ -129,21 +129,11 @@ class Breno:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno.oliveira463@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenopremoli/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenopremoli)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518996762747)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&target=_blank)](mailto:breno.oliveira463@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/brenopremoli/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&target=_blank)](https://github.com/brenopremoli)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&target=_blank)](https://wa.me/5518996762747)
 
 </div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/brenopremoli/brenopremoli/blob/output/github-contribution-grid-snake-dark.svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=brenopremoli&color=58A6FF&style=for-the-badge&label=Visitas+ao+perfil)
-
-*"Primeiro resolva o problema. Depois escreva o código."* — **John Johnson**
 
 </div>
