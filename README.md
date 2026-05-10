@@ -19,7 +19,6 @@ class Breno:
     atual       = "Auxiliar Docente de Informática @ Etec Adolpho Arruda Mello"
     interesses  = ["Web Development", "AI & Automação", "Infraestrutura", "Clean Code"]
     idiomas     = {"Português": "Nativo", "Inglês": "Intermediário", "Espanhol": "Básico"}
-    status      = "Sempre aprendendo algo novo ☕"
 ```
 
 ---
