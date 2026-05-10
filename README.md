@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Breno%20Premoli&fontSize=48&fontColor=58A6FF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20TI%20%26%20Infraestrutura&descAlignY=58&descColor=a0b4c8)
+# Olá, eu sou o Breno Premoli 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Suporte+%26+Infraestrutura+de+TI+%F0%9F%96%A7%EF%B8%8F;Pós-graduando+em+Inteligência+Artificial+🤖;Automatizando+processos+e+construindo+soluções+🚀)](https://git.io/typing-svg)
 
