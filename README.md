@@ -107,10 +107,6 @@ class Breno:
 ## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://streak-stats.demolab.com/?user=brenopremoli&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brenopremoli&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
 
